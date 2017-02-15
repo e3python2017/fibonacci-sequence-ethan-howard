@@ -2,9 +2,8 @@ def fibonacci(n):
     """This is documentation string for function. It'll be available by fibonacci.__doc__()
     Return a list containing the Fibonacci series up to n."""
     result = []
-
-     1. Create a variable named 'a' and set it to 1
-     a = 1
+ # 1. Create a variablenamed 'a' and set it to 1
+    a = 1
 
     # 2. Create a variable named 'b' and set it to 1
     b = 1
